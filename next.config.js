@@ -12,6 +12,7 @@ module.exports = {
   experimental: {
     typedRoutes: true,
     turbo: {},
+    instrumentationHook: true,
   },
   logging: {
     fetches: {
